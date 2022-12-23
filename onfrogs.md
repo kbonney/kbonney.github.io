@@ -1,0 +1,60 @@
+![Frogs](https://c4.wallpaperflare.com/wallpaper/868/582/547/cavern-under-blue-cloudy-sky-during-daytime-moab-moab-wallpaper-preview.jpg)
+
+## On Frogs: Orderings and Labels
+> flipping a fair coin is licking an arbitrary frog and rolling an unfair dice is licking the frog that croaked.
+
+This is a response to Beau Horenberger's [article](https://horenbergerb.github.io/2022/08/16/mysteryofthefrogriddle.html).
+
+If you haven't read the article yet, you probably should for any of the following to make sense.
+
+### Why is frog statistics so hard?
+It's clear to anyone who engaged through the phil meme discord or on the facebook post that the frog licking problem is interesting, confusing, and contentious. Some are calling it the 360-noscope of nerdsnipes. Many people have very different ideas on how to interpret and solve the probabilities involved, and nobody seems to agree.
+But this is math. Math is supposed to be clear and precise. So why do we still argue even after a clear solution has been provided?
+
+### A potential explanation
+My goal here is to offer additional clarity on this problem, and hopefully provide an explanation to why this problem is so hard for us to think about.
+
+
+### Setting the context
+The obvious point of contention lies with the situation of two frogs in the clearing, so I will focus on that. Our goal is to compute the probability that one of these frogs is female (F) given that at least one is male (M). We take p(M) = P(F) = 1/2 for an arbitrarily sampled frog and assume that the sexes of frogs are independent and identically distributed.
+
+### Where things go wrong
+Lets first remind ourselves of a reasonable line of thinking that can land us in trouble.
+
+Recall, we have knowledge that one frog has croaked indicating that it is male and that it is accompanied by a frog with unknown sex.
+It is natural to imagine the following sample space: {MM, MF, FM}.
+From here it follows that each outcome has equal probability, so it must be that the probability of licking a female is 2/3.
+
+This is the line taken by the video, and it is wrong. Let me elucidate why.
+The key issue here is confusing ourselves with orderings. When we treat FM and MF as distinct events, we have implicitly taken that the order of our frogs matter - but we don't actually treat the whole problem as if this is true. In fact, we need to treat MM as two different events as well. You might think this is crazy, and that is because you are bad at labelling your experiments. 
+
+What comes next is the crux and what I believe to be the primary source of confusion on this problem, so pay attention.
+
+### A brief detour to STATS101
+Recall a similar experiment of flipping coins. Here we say order matters, so when we write down the sample space for flipping two coins in a row it might look like this {HH,HT,TH,TT}. If we then condition on samples where we have at least one head, we get {HH,HT,TH}. Look familiar? Well it shouldn't, cause this is a totally different situation than ours. 
+
+Here we are flipping two fair coins, but in our situation we are flipping one fair coin and another which always lands on heads. In fact lets not even call it a coin. Let's say we roll a die which always lands on 6. Its the same thing as flipping the unfair coin, as it is just a single outcome with probability 1. We'll write D for the outcome where the dice is rolled (and lands on 6, by assumption).
+
+So then our sample space is {DT,DH,TD,HD}. Remember, order still matters and we can do the experiments in any order we like.
+
+This is precisely the scenario we are in.
+
+### Bringing it back
+In case you missed it here's the parallel:
+flipping a fair coin is licking an arbitrary frog and rolling an unfair dice is licking the frog that croaked. What matters here is that licking the croaked frog is a different experiment from licking an arbitrary frog, and we get confused when we forget this. The confusion comes because of bad notation, so lets fix it. We will write lower case m for licking the croaked frog, and keep the convention of M/F for the aribitrary frog. So following the previous section, our sample space is {mM,mF,Fm,Mm}. Expert analysis shows that this gives a 50/50 shot of licking a female frog. In fact, we just reinvented the Horenberger solution - hopefully with new insights along the way. 
+
+### Driving it home
+To fully illustrate my point here, let's look at another way to do this right. We'll do this by realizing that we never needed order to matter to begin with.
+
+### Doing it right 2: Eclectic Boogaloo
+There is no difference in outcome if we lick a female frog first or second, so order never really mattered. In fact the only thing that matters is the labelling I stressed earlier. So what happens when we forget order. Well we collapse our sample space a bit. When order doesn't matter mM = Mm and mF = Fm, so our sample space becomes {mF,mM}. Note that this is no different from {F,M} which is just the sample space on licking the arbitrary frog. IE: the croaking frog does not matter.
+
+### What was the point, again?
+The point is that notation matters. Writing things down like the original coin flip example (recall {HH,HT,TH,TT}) involuntarily forces us to think about order, but the way we wrote things down means we are ignoring the underlying labels which do exist (whether you like it or not). We cannot treat licking the croaked frog the same as licking the sample frog - they are simply not the same experiment as hopefuly the fair coin/unfair dice exampled showed.
+
+The TED talk that started all this business is clever in its trickery because it starts the discussion on the problem by assuming this sample space, so we all started thinking about this problem frog a bad faith suppostion. There is really no reason to think about it in terms of ordering, and having to sort things out once you want to work with ordering is the cause of the whole debacle. 
+
+It is perfectly reasonable to see this situation and ignore the croaked frog and realize you simply have a 50/50 shot of a female on the other frog. We just second guess ourselves when we see {MM,MF,FM,FF}.
+
+Hopefully this supplement to Beau's article is helpful. Feel free to scream at me via email found on my contact page.
+

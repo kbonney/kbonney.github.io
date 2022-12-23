@@ -1,7 +1,15 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Welcome to Kirk's Website
 
-![Image of fast.ai logo](images/logo.png)
+<img src="IMG_4759.JPG" width="500" />
 
-## This is a title
+Here you can find some of my written work, links to programming projects, and some basic info about myself and what I care about.
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+### Pages
+- [About me](https://kbonney.github.io/about)
+- [Pictures of my cats](https://kbonney.github.io/mycats)
+- [Mathematical Work](https://kbonney.github.io/mathwork)
+- [Programming Projects](https://kbonney.github.io/programmingproj)
+- [Blog](https://kbonney.github.io/blog)
+
+### Contact Me
+- Email: kirklane@protonmail.ch
