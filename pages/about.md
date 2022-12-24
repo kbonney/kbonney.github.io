@@ -1,4 +1,10 @@
-### About me
+---
+layout: page
+title: about
+---
+
+<img src="../images/kerp1.jpg" width="500" />
+
 My name is Kirk Bonney. I currently live in Fort Collins, Colorado where I am completing a master’s degree in Mathematics. I began my graduate program with
 interests in number theory, particularly arithmetic geometry and automorphic forms. Over time, this developed into an interest in mathematical cryptography.
 I am currently writing a master's paper exploring the large variety of NTRU cryptosystem variants that have been developed since the inception of NTRU in 1996.

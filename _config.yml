@@ -17,6 +17,7 @@ google_analytics:
 
 email: kirkb1998@gmail.com
 github_username: kbonney
+instagram_username: kerpography
 
 # Set headers
 header_pages:
@@ -48,3 +49,4 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+
