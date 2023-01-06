@@ -23,6 +23,7 @@ instagram_username: kerpography
 header_pages:
  - pages/about.md
  - index.md
+ - pages/formal-writing.md
  - pages/photos.md
  - pages/music.md
  
