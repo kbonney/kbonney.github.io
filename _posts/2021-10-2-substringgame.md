@@ -1,4 +1,9 @@
-# Substring Game: A lesson in efficiency
+---
+title: "Substring Game: A lesson in efficiency"
+layout: post
+flavor: "Read as: I am bad at optimization"
+---
+
 Hackerrank offers a fun and engaging way to learn coding through challenges. Recenly, I solved a challenge relating to substrings and learned about the important difference between a theoretically adequate script, and one that is practically implementable.
 The challenge was this:
 > Kevin and Stuart want to play the 'The Substring Game'.  

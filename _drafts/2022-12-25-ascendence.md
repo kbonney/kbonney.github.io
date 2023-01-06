@@ -31,6 +31,15 @@ The key choices made by the author of AoaB opens the door to genuine interaction
 Main's strong will and deep desire to understand how the world around her can faciliate her goals drives the cycle of "moments of discovery" throughout AoaB. The world feels open and alive as a result. However, we are still passive while watching. Main makes the choices, and ultimately we are along for the ride. What if we want to experience discovery first-hand by making our own observations, decisions, and risks? A common way to put oneself in these shoes is to pick up a video game, say a copy of...
 
 ## Dark Souls
+
+Outline:
+- Introduce what dark souls
+- How does it facilitate discovery
+    - removes traditional limits on game interaction
+    - rewards exploration and creative thinking to the point where it is sometimes necessary
+    - messaging system
+
+
 INSERT COOL SUMMARY HERE
 Grim Revelations-eque hollow soul seeking redemption and destiny
 Giant crow whisks your undead corpse to firelink shrine
@@ -51,6 +60,10 @@ The day before writing this sentence was Christmas '22. Romana gifted to me a 35
 
 
 ## Writing scraps
+link to dope DS fan art:
+https://www.pixiv.net/en/artworks/30675456
+
+
 My wife (Romana) and I got interested in AoaB after watching a [deep dive on isekai](https://www.youtube.com/watch?v=-6fghPHF3Zc) by YouTuber Noralities. 
 blah blah
 quick primer on isekai.

@@ -21,12 +21,10 @@ instagram_username: kerpography
 
 # Set headers
 header_pages:
- - index.md
- - pages/blog.md
  - pages/about.md
- - pages/pictures.md
+ - index.md
+ - pages/photos.md
  - pages/music.md
- - pages/photos.html
  
 plugins:
   - jekyll-feed
