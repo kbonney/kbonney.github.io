@@ -1,8 +1,7 @@
 ---
 title: Equality in Computer Algebra Systems
 layout: post
-flavor: |
-  "A rant about the need for equality in the use of computer algebra systems in the classroom"
+flavor: A rant about the need for equality in the use of computer algebra systems in the classroom
 tag: blog
 ---
 
