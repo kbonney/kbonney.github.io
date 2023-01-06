@@ -1,30 +1,34 @@
 ---
-title: "Ascendence of a Dark Soul : The Lost Art of Witholding Details"
+title: "Ascendence of a Dark Soul : An Ode to Discovery"
 flavor: "What on earth could a wholesome anime and a grimy RPG have in common?"
 tag: blog
 ---
 
 ![Main/DarkSouls](/assets/images/ascendenceofadarksoul.png)
-This is a tale of two pieces of media that happened to cross my paths at the same time: _Ascendence of a Bookworm_ (AooB) and _Dark Souls_ (DS), and the lessons that they both teach us about life. For the unaquainted, the former is a sleeper hit of an isekai anime which subverts the genre by not being awful. The latter is the first entry from the delightfully difficult Dark Souls trilogy, which has brought enough ingenuity to the gaming landscape to spawn its own subgenre called _Souls-like_. Both are triumphs of their respective mediums, and one will find no shortage of praise for them. However, I have not gathered you here to simply explain why I think they are great. Rather, we are all here to understand:
+This is a tale of two pieces of media that happened to cross my paths at the same time: _Ascendence of a Bookworm_ (AooB) and _Dark Souls_ (DS), and the lessons that they teach us about life. For the unaquainted, the former is a sleeper hit of an [isekai](https://en.wikipedia.org/wiki/Isekai) anime which subverts the genre by not being awful. The latter is the first entry from the delightfully difficult Dark Souls trilogy, which has brought enough ingenuity to the gaming landscape to spawn its own subgenre called _Souls-like_. Both are triumphs of their respective mediums, and one will find no shortage of praise for them. However, I have not gathered you here to simply explain why I think they are great. Rather, we are all here to understand:
 
 > What on earth could a wholesome anime and a grimy RPG have in common?
 
 We'll get there, I promise. 
 
-DISCLAIMER ABOUT MINOR SPOILERS
-
 ## Ascendence of a Bookworm
-Enter Urano: college student studying to become a librarian. Enter bookshelf: plot-driving furniture which ironically crushes previously introduced protagonist during an earthquake. A sad start to any story, but this is an isekai. This means that Urano will shortly be transported to another world. Urano awakens as a sickly peasant child named Main (pronounced mai-een), additionally afflicted by a unique disease called "The Devouring".
+Enter Urano: college student studying to become a librarian. Enter bookshelf: plot-driving furniture which ironically crushes previously introduced protagonist during an earthquake. A sad start to any story, but this is an isekai. This means that Urano will shortly be transported to another world. Urano awakens as a sickly peasant child named Main (pronounced mai-een).
 
-At this point in an isekai anime, it is very easy to info dump an entire world onto the newly incarnated protoganist. This is a pretty lame way to get a show started, but low hanging fruit sometimes tastes the sweetest (or helps to meet deadlines, at least). This expressly removes the joy from organically discovering facts and details about the brand new places, people, magic, and whatever else that might await. One of the things that makes AoaB special is that it avoids this pitfall via two particular plot details. The first is that the characters around Main are not aware that she was isekai'd, so there is no convenient reason for someone to infodump a compedium of basic facts about the new fantasy world. Given that the audience's knowledge of the world closely follows Main's, we must learn alongside Main and experience the same restrictions as she does.
+Typically in an isekai anime, an author might be tempted to info-dump an entire world onto the newly incarnated protoganist. This is a pretty lame way to get a show started, but low hanging fruit sometimes tastes the sweetest (or helps to meet deadlines, at least). Learning about the world through this common trope expressly removes the joy from organically discovering facts and details about the brand new places, people, magic, and whatever else that might await. This sort of discovery is one of the few ways that a passive medium (watching a show) can make itself active and engaging. As an isekai, AoaB is special because it is written for moments of genuine discovery using two particular plot details. 
 
-The second is even more clever. Main starts life in the new world in one of the most unpriviledged groups of her society. What little information the people around her can offer is mostly restricted to that of plebian life. It takes many episodes - and many years of Main's life - for the details of the greater societal structure to be revealed. Yet, it is never a complete picture. The world's magic gets a similar treatment, as it is deeply entangled with the hierarchies of the society. Despite Main's nontrivial relationship to magic, Main is never offered a complete explanation of the magical system. We only glean small details through the encounters of necessity that Main is put through. Additionally, Main rarely deviates from her primary drive of making and distributing books, she rarely follow up on details about society and magic unless they immediately serve her goals. 
+The first is that the characters around Main are not aware that she was isekai'd, so there is no convenient reason for someone to offer her a compedium of basic facts about the new fantasy world. Given that the audience's knowledge of the world closely follows Main's, we must learn alongside Main and experience the same restrictions as she does.
 
-This all contrasts a very common experience in isekai
+The second is clever. Main starts life in the new world in one of the most unpriviledged groups of her society: a child peasant in a bookless society. What little information the people around her can offer is mostly restricted to that of plebian life. It takes many episodes - and many years of Main's life - for the details of the greater societal structure to be revealed. Yet, it is never a complete picture. The world's magic gets a similar treatment, as it is deeply entangled with the hierarchies of the society. Despite Main's nontrivial relationship to magic, Main is never offered a straightforward explanation of the magical system: what does a peasant girl need to know about the complicated facets of the world?
 
-[Why It's Rude to Suck at Warcraft](https://www.youtube.com/watch?v=BKP1I7IocYU)
-My wife and I recently started watching the recently released anime _Ascendence of a Bookworm_, on  the suggestion by youtuber Noralities. Despite the lack of the typical isekai budget, the show has ascended to one of the top animes. The light novel adaptation not only avoids the worst qualities that pervade the genre, but supplants them with shining examples of equitable storytelling. The general objectification of women and misogyny is replaced by a celebration and focus on the impact of the feminine side of life.  (insert more comparisons). However, I want to focus on the worldbuilding of the show. 
-AoaB
+The key choices made by the author of AoaB opens the door to genuine interaction and exploration of their world. I'll attempt to convey its impact on the story while avoiding spoilers.
+
+ <p><img src="/assets/images/Main1.png" alt="Main" style="float: left; margin-right: 15px;">
+ Shortly after Main is reincarnated, one of her first observations is NOT that she suddenly feels great power within, or that a video game UI has popped up in her vision. Rather, it is that her hair feels gross and she wants to put it up in a bun. To do this she first asks her sister, Tuuli, if she can break a leg off of her doll to use as a <a href="https://en.wikipedia.org/wiki/Hair_stick">hair stick</a>. Protective of her toy, Tuuli offers to carve her one instead. When Main puts her hair up using the carved stick Tuuli scolds Main, reminding her that only adults are allowed to put their hair up. Main comprimises, holding up half of her hair with the sick and letting the rest lay free: a symbol of her status as a mix of adult and child.
+ </p>
+
+ 
+
+Main's strong will and deep desire to understand how the world around her can faciliate her goals drives the cycle of "moments of discovery" throughout AoaB. The world feels open and alive as a result. However, we are still passive while watching. Main makes the choices, and ultimately we are along for the ride. What if we want to experience discovery first-hand by making our own observations, decisions, and risks? A common way to put oneself in these shoes is to pick up a video game, say a copy of...
 
 ## Dark Souls
 INSERT COOL SUMMARY HERE
@@ -50,3 +54,17 @@ The day before writing this sentence was Christmas '22. Romana gifted to me a 35
 My wife (Romana) and I got interested in AoaB after watching a [deep dive on isekai](https://www.youtube.com/watch?v=-6fghPHF3Zc) by YouTuber Noralities. 
 blah blah
 quick primer on isekai.
+
+[Why It's Rude to Suck at Warcraft](https://www.youtube.com/watch?v=BKP1I7IocYU)
+
+Outline:
+
+Main point: genuione experiences of discovery make media good
+hook: combining two really different looking pieces of media to catch attention
+example 1: AoaB
+    intentional choices about the plot set up the protagonist (by extension, viewer) for more moments of genuine discovery
+    concrete example of this happening
+    broader comments on how this makes things more enjoyable
+example 2: DS
+    little explanation and lack of traditional limitations allow the player to really invest in discovery
+wrap up:
