@@ -17,6 +17,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-octicons'
   gem "jekyll-remote-theme"
+  gem 'exifr'
 end
 
 gem "jekyll-github-metadata"

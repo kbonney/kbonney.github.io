@@ -26,6 +26,7 @@ header_pages:
  - pages/about.md
  - pages/pictures.md
  - pages/music.md
+ - pages/photos.html
  
 plugins:
   - jekyll-feed
@@ -33,6 +34,7 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jekyll-remote-theme
+  - jekyll-photo-gallery
 
 remote_theme: kbonney/minima
 
@@ -50,3 +52,7 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
 
+#Jekyll-Photo-Gallery Settings
+exiftag:
+ sources:
+   - /assets/images/ #Set to location of photos
