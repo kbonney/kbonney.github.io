@@ -4,7 +4,7 @@ flavor: "What on earth could a wholesome anime and a grimy RPG have in common?"
 tag: blog
 ---
 
-![Main/DarkSouls](/assets/images/ascendenceofadarksoul.png)
+![Main/DarkSouls](/assets/images/ascendence/ascendenceofadarksoul.png)
 This is a tale of two pieces of media that happened to cross my paths at the same time: _Ascendence of a Bookworm_ (AooB) and _Dark Souls_ (DS), and the lessons that they teach us about life. For the unaquainted, the former is a sleeper hit of an [isekai](https://en.wikipedia.org/wiki/Isekai) anime which subverts the genre by not being awful. The latter is the first entry from the delightfully difficult Dark Souls trilogy, which has brought enough ingenuity to the gaming landscape to spawn its own subgenre called _Souls-like_. Both are triumphs of their respective mediums, and one will find no shortage of praise for them. However, I have not gathered you here to simply explain why I think they are great. Rather, we are all here to understand:
 
 > What on earth could a wholesome anime and a grimy RPG have in common?
@@ -22,7 +22,7 @@ The second is clever. Main starts life in the new world in one of the most unpri
 
 The key choices made by the author of AoaB opens the door to genuine interaction and exploration of their world. I'll attempt to convey its impact on the story while avoiding spoilers.
 
- <p><img src="/assets/images/Main1.png" alt="Main" style="float: left; margin-right: 15px;">
+ <p><img src="/assets/images/ascendence/Main1.png" alt="Main" style="float: left; margin-right: 15px;">
  Shortly after Main is reincarnated, one of her first observations is NOT that she suddenly feels great power within, or that a video game UI has popped up in her vision. Rather, it is that her hair feels gross and she wants to put it up in a bun. To do this she first asks her sister, Tuuli, if she can break a leg off of her doll to use as a <a href="https://en.wikipedia.org/wiki/Hair_stick">hair stick</a>. Protective of her toy, Tuuli offers to carve her one instead. When Main puts her hair up using the carved stick Tuuli scolds Main, reminding her that only adults are allowed to put their hair up. Main comprimises, holding up half of her hair with the sick and letting the rest lay free: a symbol of her status as a mix of adult and child.
  </p>
 
