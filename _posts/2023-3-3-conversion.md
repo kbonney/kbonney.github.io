@@ -67,7 +67,7 @@ for i in np.arange(0,5):
 	for j in np.arange(0,5):
 		print(i*j)
 ```
-These functions will not print out the simliar results. In fact it is worse. The results will not even have a nice one-to-one mapping. The first five lines from the matlab script are
+These functions will not print out the same results. In fact it is worse. The results will not even have a nice one-to-one mapping. The first five lines from the matlab script are
 ```
 1
 2
