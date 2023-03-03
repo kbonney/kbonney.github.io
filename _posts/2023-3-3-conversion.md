@@ -46,7 +46,7 @@ This code fails to run. This code looks bad. Why?
 
 The code fails to run for two reasons:
 1. `N` is a numpy array, which must be accessed using square brackets. Parentheses are reserved for calling in Python, which is not implemented for arrays.
-2. In the for loop, `i` starts at 1 and ends at 4. Since python indexes starting at 0, the maximum index of `N` is at 3, so `N[i]` when `i==4` will raise an exception.
+2. In the for loop, `i` starts at 1 and ends at 4. However, unlike MATLAB, python indexing starts at 0. The maximum index of `N` is at 3, so `N[i]` when `i==4` will raise an exception.
 It may seem strange that we would fail on such a simple scenario, but there are good justifications for this. 
 
 Matlab and Python are both dynamically typed languages. Nowhere in either the matlab script nor the python output do we explicitly assign data types to our variables. Without a very complex backend, there is no way for a conversion process to determine whether a variable name is a function, class, floating point number, array, or anything else. The simple solution is to not try to do this, which as far as I can tell, is what causes error 1. 
@@ -91,6 +91,6 @@ Motivated by the types of issues I just outlined, I started reading through the 
 What I plan to do in a series of posts is explore the process of computational language conversion. At the risk of reinventing the wheel, I want to try my hand at building a matlab to python conversion from scratch. I don't intend to produce something as comprehensive as what can be found in ml2py, but I do want to attempt to take a closer look at the two problems I laid out in a more rigorous context. 
 
 1. What kind of machinery is necessary to distinguish matrices from functions in matlab?
-2. How can we account for the mismatch of indexing between the languages?
+2. How can we account for the indexing mismatch between the languages, without causing more problems than we solve?
 
 This will require diving into the topics I mentioned earlier. We'll look at some theory, we'll look at some code, we'll go off the rails. I think it will be fun.
