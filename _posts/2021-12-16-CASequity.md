@@ -2,7 +2,7 @@
 title: Equality in Computer Algebra Systems
 layout: post
 flavor: A rant about the need for equality in the use of computer algebra systems in the classroom
-tag: blog
+tag: "blog"
 ---
 
 Anyone who has interacted enough with the education system of a university that houses greek life eventually finds out about 'test vaults.' I first found out about these when hanging out in the attic of a fraternity waiting for a friend to finish an assignment so that we could get on with our Friday night. Passing the time, I started snooping around various drawers and cabinets that littered the space, and I eventually found a filing cabinet full of tests. I asked my friend about this, and he explained that the fraternity stored all of their tests so that later members can use them to pass their classes. Of course my first reaction was to think of how unfair this was *to me* - and this indignant attitude only grew as I learned how widespread this practice was among greek houses. However, after spending some time on the other side of classroom as an instructor and reflecting on education through the lens of equity, my perspective has gained some nuance. 

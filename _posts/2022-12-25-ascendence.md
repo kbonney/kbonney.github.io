@@ -1,7 +1,7 @@
 ---
 title: "Ascendence of a Dark Soul : An Ode to Discovery"
 flavor: "What on earth could a wholesome anime and a grimy RPG have in common?"
-tag: blog
+tag: "blog"
 ---
 
 ![Main/DarkSouls](/assets/images/ascendence/ascendenceofadarksoul.png)
@@ -23,11 +23,10 @@ The second is clever. Main starts life in the new world in one of the most unpri
 
 The key choices made by the author of AoaB opens the door to genuine interaction and exploration of their world. I'll attempt to convey its impact on the story while avoiding spoilers.
 
- <p><img src="/assets/images/ascendence/Main1.png" alt="Main" style="float: left; margin-right: 15px;">
- Shortly after Main is reincarnated, one of her first observations is NOT that she suddenly feels great power within, or that a video game UI has popped up in her vision. Rather, it is that her hair feels gross and she wants to put it up in a bun. To do this she first asks her sister, Tuuli, if she can break a leg off of her doll to use as a <a href="https://en.wikipedia.org/wiki/Hair_stick">hair stick</a>. Protective of her toy, Tuuli offers to carve her one instead. When Main puts her hair up using the carved stick Tuuli scolds Main, reminding her that only adults are allowed to put their hair up. Main comprimises, holding up half of her hair with the sick and letting the rest lay free: a symbol of her status as a mix of adult and child.
- </p>
 
- 
+<img src="/assets/images/ascendence/Main1.png" alt="Main" style="float: left; width: 30%">
+Shortly after Main is reincarnated, one of her first observations is NOT that she suddenly feels great power within, or that a video game UI has popped up in her vision. Rather, it is that her hair feels gross and she wants to put it up in a bun. To do this she first asks her sister, Tuuli, if she can break a leg off of her doll to use as a <a href="https://en.wikipedia.org/wiki/Hair_stick">hair stick</a>. Protective of her toy, Tuuli offers to carve her one instead. When Main puts her hair up using the carved stick Tuuli scolds Main, reminding her that only adults are allowed to put their hair up. Main comprimises, holding up half of her hair with the sick and letting the rest lay free: a symbol of her status as a mix of adult and child.
+
 
 Main's strong will and deep desire to understand how the world around her can faciliate her goals drives the cycle of "moments of discovery" throughout AoaB. The world feels open and alive as a result. I also think that the viewers are invited to participate in this process. There are many examples of
 implicit world building that we can tune into and piece together. The relationship between Main's strata in society and writing is conveyed by some bits
@@ -75,7 +74,9 @@ secret paths they uncover, the items they use, and so on all will vary greatly a
 I think as a game design decision, this forms a much stronger bond between who you are and how you play the game and the resulting experience you
 have while playing. 
 
-<p><img src="/assets/images/ascendence/blacksmith.jpeg" alt="blacksmith" style="float: left; margin-right: 15px;">
+<div id="ds">
+<img src="/assets/images/ascendence/blacksmith.jpeg" alt="blacksmith" style="float: right; width: 30%">
+<p>
 Not too long ago, I decided to dip back into my Dark Souls file (after focusing on Elden Ring for some time). I found myself frustrated with my ability to
 progress in the game. I felt like all I could do is hit dead ends or situations I did not feel prepared to handle. However, I knew of an area that
 was locked by an item I could buy. It was an expensive item though. I also knew of a way around the price tag. Murder the friendly blacksmith who
@@ -85,6 +86,7 @@ I look back at this moment as exactly the sort of experience I love Dark Souls f
 (impatient). I really felt "in the game" at that moment. Who I was and what I was feeling directly impacted my gameplay. I will never trade with
 that blacksmith again, nor will I hear him call out "Don't go hollow on me, now."
 </p>
+</div>
 
 
 ## Writing for Discovery

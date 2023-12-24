@@ -2,6 +2,7 @@
 title: "Substring Game: A lesson in efficiency"
 layout: post
 flavor: "Read as: I am bad at optimization"
+tag: "blog"
 ---
 
 Hackerrank offers a fun and engaging way to learn coding through challenges. Recenly, I solved a challenge relating to substrings and learned about the important difference between a theoretically adequate script, and one that is practically implementable.

@@ -1,7 +1,7 @@
 ---
 title: "Converting MATLAB to Python: The Saga Begins"
 flavor: "The Good, The Bad, and The 'Damn, I really should have taken more CS courses in college'"
-tag: blog
+tag: "blog"
 ---
 
 This post is a launching point for a series of investigations I plan to make on the process
