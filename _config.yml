@@ -12,7 +12,7 @@ description: Not another rambling blog
 
 show_excerpts: true
 use_math: true
-google_analytics:
+google_analytics: true
 
 
 email: kirkb1998@gmail.com
