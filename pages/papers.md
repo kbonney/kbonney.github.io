@@ -1,6 +1,6 @@
 ---
 layout: page
-title: formal writings
+title: papers
 ---
 
 You can find some of my formal mathematical writing here. I may write blog posts to expand on them at some point, but if you are interested in any of these topics - jump right in!

@@ -21,9 +21,9 @@ instagram_username: kerpography
 
 # Set headers
 header_pages:
- - pages/about.md
- - index.md
- - pages/formal-writing.md
+ - pages/blog.md
+ - pages/crumbs.md
+ - pages/papers.md
  - pages/photos.md
  - pages/music.md
  
